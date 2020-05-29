@@ -21,6 +21,8 @@ object test {
     // 启动executor，执行任务
     env.execute()
     print("///")
+    print("///")
+    print("///")
 
   }
 
